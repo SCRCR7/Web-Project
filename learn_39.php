@@ -7,5 +7,6 @@
 </head>
 <body>
     <?php echo "<h1>Sohaib Hassan</h1>"; ?>
+   <?php echo "<p>Changes from Remote Repository </p>" ?>
 </body>
 </html>
