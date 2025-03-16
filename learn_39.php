@@ -1,1 +1,1 @@
-<?php "</h1> Updated from gitbash</h1>"; ?>
+<?php echo "<p>New update from feature branch</p>"; ?>
